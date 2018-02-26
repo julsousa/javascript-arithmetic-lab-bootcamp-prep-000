@@ -10,3 +10,12 @@ function multiply(a, b) {
 function divide(a, b) {
   return a / b
 }
+function inc(n) {
+  
+}
+function dec(n) {
+  
+}
+function makeInt(n){
+  
+}
